@@ -1,4 +1,4 @@
-# Car Price Prediction🚗
+# Car Price Prediction 🚗
 This repository contains a project that explores various regression models to predict the selling price of cars based on multiple features such as mileage, fuel type, transmission type, and number of previous owners.
 
 📌 Features
