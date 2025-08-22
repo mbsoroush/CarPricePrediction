@@ -2,7 +2,7 @@
 This repository contains a project that explores various regression models to predict the selling price of cars based on multiple features such as mileage, fuel type, transmission type, and number of previous owners.
 
 ## 📦 Dataset
-You could find the datase in my kaggle page:  
+The dataset used in this project is available on my Kaggle page:  
 👉 [Car Price Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
 
 
