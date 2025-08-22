@@ -6,8 +6,8 @@ You could find the datase in my kaggle page:
 👉 [Car Price Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
 
 
-### 📌 Features
-Data preprocessing and exploratory data analysis (EDA) for understanding car price factors.
-Implements Linear Regression, Ridge Regression, and Lasso Regression for predictive modeling.
-Feature selection and engineering to optimize model performance.
-Uses Matplotlib, Seaborn, and Plotly for data visualization.
+## 📌 Features
+-  Data preprocessing and exploratory data analysis (EDA) for understanding car price factors.
+-  Implements Linear Regression, Ridge Regression, and Lasso Regression for predictive modeling.
+-  Feature selection and engineering to optimize model performance.
+-  Uses Matplotlib, Seaborn, and Plotly for data visualization.
